@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title> Semantics Elements </title>
+</head>
+<body>
+<header>
+un en tete d'un document, d'une section ou d'un article, généralement il va contenir le logo du site, des information introductives et souvent un menu de navigation 
+<nav> un ensemble de liens de navigation </nav> 
+</header>
+<main>
+<h1>Les navigateurs</h1>
+<p>Google Chrome, Firefox et Internet Explorer sont actueellement parmi les navigateurs des plus utilisés...</p>
+<article>
+<header>
+<h2>Google chrome</h2>
+</header>
